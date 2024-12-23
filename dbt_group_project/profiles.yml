@@ -1,0 +1,13 @@
+police_reports:
+  outputs:
+    dev:
+      account: "{{ env_var('DBT_ACCOUNT') }}"
+      user: "{{ env_var('DBT_USER') }}"
+      database: "{{ env_var('DBT_DATABASE') }}"
+      password: "{{ env_var('DBT_PASSWORD') }}"
+      role: "{{ env_var('DBT_ROLE') }}"
+      threads: 4
+      schema: "analytics"
+      type: "snowflake"
+      warehouse: "{{ env_var('DBT_WAREHOUSE') }}"
+  target: dev
