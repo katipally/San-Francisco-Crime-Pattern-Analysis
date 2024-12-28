@@ -44,7 +44,7 @@ Key findings include:
 - Data is stored and processed in **Snowflake**.
 
 ### Visualizations
-![Power BI Dashboard](images/PowerBI_dashboard.png)
+![Power BI Dashboard](images/Dashboard.png)
 
 - Interactive dashboards provide insights into crime patterns.
 - Geographic heatmaps and temporal graphs highlight crime clusters and trends.
