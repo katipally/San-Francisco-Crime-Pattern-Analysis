@@ -37,20 +37,20 @@ Key findings include:
 ## Workflow Overview
 
 ### Data Pipeline
-![DAG Overview](images/DAG_overview.png)
+![DAG Overview](Images/DAG_overview.png)
 
 - **Airflow** automates data ingestion from the San Francisco Open Data Portal.
 - **dbt** transforms raw data for insights and analytics.
 - Data is stored and processed in **Snowflake**.
 
 ### Visualizations
-![Power BI Dashboard](images/Dashboard.png)
+![Power BI Dashboard](Images/Dashboard.png)
 
 - Interactive dashboards provide insights into crime patterns.
 - Geographic heatmaps and temporal graphs highlight crime clusters and trends.
 
 ### Data Processing
-![dbt Visualization](images/dbt_visualization.png)
+![dbt Visualization](Images/dbt_visualization.png)
 
 - dbt handles data aggregation and quality checks.
 - Outputs structured datasets ready for visualization.
@@ -58,7 +58,7 @@ Key findings include:
 ## Results
 
 ### Crime Heatmap
-![Heatmap](images/Heatmap_visualization.png)
+![Heatmap](Images/Heatmap_visualization.png)
 
 - Highlights crime hotspots across San Francisco.
 
