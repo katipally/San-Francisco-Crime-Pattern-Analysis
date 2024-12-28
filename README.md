@@ -1,2 +1,1 @@
-# Data-226-Group-Project
-Files for the FA-24 Data-226 End Sem Group Project
+. ├── dags/ │ ├── Historical_upload_ETL.py │ ├── API_ETL.py ├── dbt/ │ ├── models/ │ ├── snapshots/ ├── reports/ │ ├── Project_Report.pdf ├── images/ │ ├── PowerBI_dashboard.png │ ├── DAG_overview.png │ ├── dbt_visualization.png │ ├── Heatmap_visualization.png ├── README.md
