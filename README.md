@@ -31,7 +31,22 @@ Key findings include:
 
 ## Project Structure
 
-. ├── dags/ │ ├── Historical_upload_ETL.py │ ├── API_ETL.py ├── dbt/ │ ├── models/ │ ├── snapshots/ ├── reports/ │ ├── Project_Report.pdf ├── images/ │ ├── PowerBI_dashboard.png │ ├── DAG_overview.png │ ├── dbt_visualization.png │ ├── Heatmap_visualization.png ├── README.md
+.
+├── dags/
+│   ├── Historical_upload_ETL.py
+│   ├── API_ETL.py
+├── dbt/
+│   ├── models/
+│   ├── snapshots/
+├── reports/
+│   ├── Project_Report.pdf
+├── images/
+│   ├── PowerBI_dashboard.png
+│   ├── DAG_overview.png
+│   ├── dbt_visualization.png
+│   ├── Heatmap_visualization.png
+├── README.md
+
 
 
 ## Workflow Overview
